@@ -6,7 +6,7 @@
 Summary:	%{_pearname} - DHTML replacement for the standard JavaScript alert window 
 Name:		php-pear-%{_pearname}
 Version:	0.3.2
-Release:	%mkrel 2
+Release:	%mkrel 3
 License:	PHP License
 Group:		Development/PHP
 URL:		http://pear.php.net/package/HTML_QuickForm_DHTMLRulesTableless
