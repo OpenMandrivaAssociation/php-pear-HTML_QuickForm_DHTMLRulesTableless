@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	0.3.2
-Release:	%mkrel 6
+Release:	%mkrel 7
 Summary:	DHTML replacement for the standard JavaScript alert window 
 License:	PHP License
 Group:		Development/PHP
