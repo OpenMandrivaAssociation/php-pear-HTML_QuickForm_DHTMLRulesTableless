@@ -8,7 +8,7 @@ Release:	2
 Summary:	DHTML replacement for the standard JavaScript alert window 
 License:	PHP License
 Group:		Development/PHP
-URL:		http://pear.php.net/package/HTML_QuickForm_DHTMLRulesTableless
+URL:		https://pear.php.net/package/HTML_QuickForm_DHTMLRulesTableless
 Source0:	http://download.pear.php.net/package/HTML_QuickForm_DHTMLRulesTableless-%{version}.tgz
 Requires(post): php-pear
 Requires(preun): php-pear
